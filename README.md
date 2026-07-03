@@ -1,23 +1,39 @@
-# Competitive Programming Practice
+# Competitive Programming & DSA Notes
 
-This repository contains my solutions to competitive programming and
-logical problem-solving questions implemented primarily in Java.
+This repository is a collection of my **Competitive Programming**, **Data Structures & Algorithms (DSA)** notes, and **Java implementations**. It serves as my personal knowledge base for mastering problem-solving patterns, preparing for coding interviews, and improving competitive programming skills.
 
-The focus of this repository is on:
-- Custom logic problems not directly available on platforms like
-  LeetCode or GeeksforGeeks
-- Writing clean, optimized, and readable code suitable for contests
-  and technical assessments
+## 📚 What's Included
 
-## Why this repository?
+* 🧠 Concept notes with intuition, patterns, and observations
+* 💻 Java implementations of algorithms and data structures
+* ⚡ Competitive programming and logical problem solutions, Optimized approaches
+* 🔁 Recurring problem-solving patterns (Recursion, DP, Sliding Window, Prefix Sum, Graphs, Trees, etc.)
 
-While platforms like LeetCode and GeeksforGeeks are excellent for practice,
-many college tests and competitive exams include original problems that
-require fundamental reasoning rather than pattern memorization.
-This repository serves as a collection of such problems and solutions.
+## 🎯 Repository Focus
 
+Rather than simply storing accepted solutions, this repository emphasizes **understanding the reasoning behind each approach**.
 
-## Goal
-To consistently improve problem-solving skills, code clarity,
-and logical thinking required for competitive programming
-and technical interviews.
+## 🚀 Why this Repository?
+
+While platforms like LeetCode and GeeksforGeeks provide excellent practice, many coding assessments and college placement tests contain original problems that require strong fundamentals and pattern recognition.
+
+This repository acts as my personal revision guide where I document:
+
+* Key concepts and mental models
+* Reusable templates
+* Optimized implementations
+* Lessons learned while solving problems
+
+The goal is to build understanding rather than memorize solutions.
+
+## 🎯 Goal
+
+* Strengthen DSA fundamentals
+* Improve competitive programming and logical reasoning
+* Build a quick revision resource for placements and coding interviews
+* Write clean, efficient, and readable Java code
+* Continuously refine problem-solving intuition through consistent practice
+
+---
+
+*This repository is continuously updated as I learn new concepts, solve new problems, and discover better approaches.*
